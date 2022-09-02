@@ -1,5 +1,5 @@
 {
     "require": {
-        "friendsofphp/php-cs-fixer": "v3.10.0"
+        "friendsofphp/php-cs-fixer": "v3.11.0"
     }
 }
